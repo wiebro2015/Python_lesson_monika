@@ -2,7 +2,7 @@
 
 ## Autor
 
-Monika
+Monika Wierick
 
 ## Datum
 
